@@ -1,6 +1,6 @@
 #!/usr/bin/python2.6
 
-from primes import get_prime_factors
+from pylib.primes import get_prime_factors
 
 if __name__=="__main__":
     n = 600851475143

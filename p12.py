@@ -1,6 +1,6 @@
 #!/usr/bin/python2.6
 
-from primes import get_prime_factors, number_of_divisors, get_n_primes
+from pylib.primes import get_prime_factors, number_of_divisors, get_n_primes
 import math
 
 def num_of_divisors(number):

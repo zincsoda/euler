@@ -1,6 +1,6 @@
 #!/usr/bin/python2.6
 
-from primes import is_prime
+from pylib.primes import is_prime
 
 if __name__=="__main__":
     l = 2000000

@@ -1,6 +1,6 @@
 #!/usr/bin/python2.6
 
-from primes import *
+from pylib.primes import *
 
 def brute_force():
     a = 1

@@ -3,7 +3,7 @@
 """
 Find the 10001st prime
 """
-from primes import is_prime
+from pylib.primes import is_prime
 
 x = 1
 p_count = 0
